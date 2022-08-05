@@ -32,7 +32,7 @@ h2 {
     border-radius: 5px;
     text-decoration-style: none;
     font-weight: 800;
-    transition: all 2s;
+    transition: all 4s;
 }
 
 #fondo {
@@ -49,14 +49,15 @@ h2 {
     font-weight: bold; 
 } 
 .icono {
-    font-size: 24px;
+    font-size: 34px;
     padding-right: 5px;
+    color: rgb(33, 32, 32);
 }
 /*comienzo estilos de contacto*/
 
 .fondoContacto {
     height: 100%;
-    background-color: #FFDA9D;
+    background-color: #7e7c7a;
     background-image: url('contacto.jpg'); 
 
     background-position: center;
