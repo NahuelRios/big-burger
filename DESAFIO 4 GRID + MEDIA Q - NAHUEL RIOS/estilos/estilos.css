@@ -47,6 +47,10 @@ h2 {
 
 .text {
     font-weight: bold; 
+} 
+.icono {
+    font-size: 24px;
+    padding-right: 5px;
 }
 /*comienzo estilos de contacto*/
 
@@ -67,6 +71,11 @@ input:focus {
     width: 200px;
     font-size: 24px;
 }
+/*comienzo productos*/
+.fondoProductos {
+    background-image: linear-gradient(to right top, #e9b126, #e8bc3a, #e7c64c, #e6d05d, #e6da6f, #e8da72, #eadb76, #ecdb79, #f0d371, #f4ca6a, #f8c264, #fbb95f);
+}
+
 /*comienzo estilos de nosotros*/
 
 .FondoNosotros { 
